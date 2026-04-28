@@ -1,2 +1,1 @@
-# btc-moneyflow-engine
-Bitcoin on-chain data pipeline and wallet clustering engine
+# Bitcoin Money-Flow Engine — Orhun Alp (TUM MSc Thesis 2027)
